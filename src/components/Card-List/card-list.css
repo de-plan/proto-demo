@@ -1,0 +1,15 @@
+.card-list {
+  color: white;
+  padding: 50px;
+  width: 27vw;
+  margin: 0 auto;
+}
+
+.Header {
+  padding-top: 40px;
+  padding-bottom: 60px;
+  display: flex;
+  justify-content: center;
+  font-size: 200%;
+  width: 100%;
+}

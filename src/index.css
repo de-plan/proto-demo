@@ -1,0 +1,64 @@
+body {
+  background-color: #d9d9d9;
+ object-fit: contain;
+ width: 100vw;
+ height: 100vh;
+  font-family: 'Turret Road','Saira', sans-serif;
+}
+
+
+
+
+.concentric-circles {
+  width: 20px;
+  height: 20px;
+  margin-top: 50px;
+  margin-left: 50%;
+  background-color: #EF0066;
+  border-radius: 50%;
+  transform: translateX(-50%);
+  transition: all 0.2s ease-in-out;
+  animation: ripple 2.0s 0.2s infinite;
+  -webkit-animation: ripple 2.0s 0.2s  infinite;
+}
+
+.concentric-circles:hover {
+  transform: translateX(-50%) scale(1.2);
+  background-color: green;
+}
+
+
+
+
+/* .concentric-circles {
+  position:relative;
+  width: 20px;
+  height: 20px;
+  margin-top: 35px;
+  margin-left: 38%;
+  background-color:#EF0066;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+.concentric-circles:hover {
+  transform: translateX(-0.6%) scale(1.2);
+  background-color:green;
+}
+
+ 
+.concentric-circles1{
+  position:relative;
+  width: 90px;
+  height: 90px;
+  margin-top: 8px;
+  margin-left: 14%;
+  background-color: transparent;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  
+} */
+
+
+
+
+

@@ -1,0 +1,6 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <circle className="circle" cx="200" cy="200" r = "100" style="fill:rgba(255,255,255,0.2); stroke:#0F1C3F; stroke-width:0.01em;"/>
+    <circle className="circle1" cx="200" cy="200" r = "70" style="fill:rgba(255,255,255,0.4); stroke:#0F1C3F stroke-width:0.01em;"/>
+    <circle className="circle2" cx="200" cy="200" r = "40" style="fill:rgba(255,255,255,0.6); stroke:#0F1C3F ;stroke-width:0.01em;"/>
+    <circle className="circle3" cx="200" cy="200" r = "10" style="fill:#EF0066 ;stroke:#0F1C3F; stroke-width:0.01em;"/>
+    </svg>
